@@ -1,0 +1,7 @@
+streamlit
+google-generativeai
+python-dotenv   # to load all env
+langchain  # to read the pdfs
+PyPDF2
+faiss-cpu 
+langchain_google_genai  # access the APIs 
